@@ -40,3 +40,21 @@ body
 	stroke-width: 3;
 }
 
+#cajaBoton
+{
+	 fill: green;
+	 stroke: rgb(0,0,0);
+	 stroke-width: 1;
+}
+
+#reiniciar, #volverJuego
+{
+	fill: white;
+}
+
+#reiniciar:hover, #volverJuego:hover
+{
+	fill: yellow;
+}
+
+
